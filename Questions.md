@@ -16,3 +16,4 @@
 # Question Number 16 : Use typeof() to check the type of a bollean variable
 # Question Number 17 : Create three Variables of types string number and boolean and log their values
 # Question Number 18 : Declare a variable without assigning a value log it's type
+# Question Number 19 : Create a variable with undefined and log it's type
