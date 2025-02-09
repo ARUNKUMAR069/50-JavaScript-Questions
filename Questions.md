@@ -10,3 +10,4 @@
 # Question Number 10 : Log the Result of 100/0 and observe the output
 # Question Number 11 : Declare a varibale using let and log it's value
 # Question Number 12 : Create a constant to store the value of PI and log it
+# Question Number 13 : Reassign a value to a variable declared with let and log the result
