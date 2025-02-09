@@ -6,3 +6,4 @@
 # Question Number 6 : Use console.error() to stimulate an Error Message 
 # Question Number 7 : Log the square of the number 12 to the console
 # Question Number 8 : Print the type of a variable holding the value true
+# Question Number 9 : Create a variable holding your age and log whether it's greater than 18
