@@ -8,3 +8,4 @@
 # Question Number 8 : Print the type of a variable holding the value true
 # Question Number 9 : Create a variable holding your age and log whether it's greater than 18
 # Question Number 10 : Log the Result of 100/0 and observe the output
+# Question Number 11 : Declare a varibale using let and log it's value
