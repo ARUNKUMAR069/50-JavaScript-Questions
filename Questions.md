@@ -4,3 +4,4 @@
 # Question Number 4 : Create two variables for first and last name concatenate and log them 
 # Question Number 5 : Track the value of Variable by logging it before and after updating 
 # Question Number 5 : Use console.error() to stimulate an Error Message 
+# Question Number 5 : Log the square of the number 12 to the console
