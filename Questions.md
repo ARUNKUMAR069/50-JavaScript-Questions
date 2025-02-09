@@ -9,3 +9,4 @@
 # Question Number 9 : Create a variable holding your age and log whether it's greater than 18
 # Question Number 10 : Log the Result of 100/0 and observe the output
 # Question Number 11 : Declare a varibale using let and log it's value
+# Question Number 12 : Create a constant to store the value of PI and log it
