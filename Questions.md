@@ -17,3 +17,6 @@
 # Question Number 17 : Create three Variables of types string number and boolean and log their values
 # Question Number 18 : Declare a variable without assigning a value log it's type
 # Question Number 19 : Create a variable with undefined and log it's type
+# Question Number 20 : Use const to create an array . Try reassigning the array and observe the error
+
+
