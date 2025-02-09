@@ -11,3 +11,4 @@
 # Question Number 11 : Declare a varibale using let and log it's value
 # Question Number 12 : Create a constant to store the value of PI and log it
 # Question Number 13 : Reassign a value to a variable declared with let and log the result
+# Question Number 14 : Check the type of null and log it
