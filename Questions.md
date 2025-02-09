@@ -13,3 +13,4 @@
 # Question Number 13 : Reassign a value to a variable declared with let and log the result
 # Question Number 14 : Check the type of null and log it
 # Question Number 15 : Create a variable with a number as a string (e.g ,"25") and log it's type
+# Question Number 16 : Use typeof() to check the type of a bollean variable
