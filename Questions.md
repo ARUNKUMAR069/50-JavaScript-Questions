@@ -18,5 +18,6 @@
 # Question Number 18 : Declare a variable without assigning a value log it's type
 # Question Number 19 : Create a variable with undefined and log it's type
 # Question Number 20 : Use const to create an array . Try reassigning the array and observe the error
+# Question Number 21 : Write a  for loop to print the numbers from 1 to 50.
 
 
