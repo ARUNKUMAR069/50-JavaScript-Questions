@@ -24,3 +24,4 @@
 
 # Question Number 23 : Create a string and iterate through each character of the string using for of loop.
 # Question Number 24 : Write a for loop that skips even numbers from 1 to 20. Print the odd numbers only.
+# Question Number 25 : Use a do...while loop to console.log the numbers from 5 to 1
