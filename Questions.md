@@ -27,3 +27,4 @@
 # Question Number 25 : Use a do...while loop to console.log the numbers from 5 to 1
 # Question Number 26 : Creaate a for loop to calculate the factorial of a number. For example, the factorial of 5 is 5*4*3*2*1 = 120. Print the factorial of 5 on the console.
 
+# Question Number 27 : Write a nested loop to print a 3x3 grid of numbers
