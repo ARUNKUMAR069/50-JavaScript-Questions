@@ -28,3 +28,4 @@
 # Question Number 26 : Creaate a for loop to calculate the factorial of a number. For example, the factorial of 5 is 5*4*3*2*1 = 120. Print the factorial of 5 on the console.
 
 # Question Number 27 : Write a nested loop to print a 3x3 grid of numbers
+# Question Number 28 : Use for loop to reverse an array [1,2,3,4]
