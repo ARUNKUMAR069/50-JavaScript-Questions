@@ -23,3 +23,4 @@
 # Question Number 22 : use a while loop to sum the numbers from 1 to 10. Print the sum on the console.
 
 # Question Number 23 : Create a string and iterate through each character of the string using for of loop.
+# Question Number 24 : Write a for loop that skips even numbers from 1 to 20. Print the odd numbers only.
