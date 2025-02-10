@@ -20,4 +20,5 @@
 # Question Number 20 : Use const to create an array . Try reassigning the array and observe the error
 # Question Number 21 : Write a  for loop to print the numbers from 1 to 50.
 
+# Question Number 22 : use a while loop to sum the numbers from 1 to 10. Print the sum on the console.
 
