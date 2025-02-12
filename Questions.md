@@ -37,3 +37,4 @@
 # Question Number 34 : Pop the array last element and console it 
 # Question Number 35 : use .slice() to extract the first three elements of an array
 # Question Number 36 : Find the index of a specific element in an index arr using indexOf().
+# Question Number 37 : Check if a value exists in an array using .includes()
