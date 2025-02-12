@@ -39,3 +39,4 @@
 # Question Number 36 : Find the index of a specific element in an index arr using indexOf().
 # Question Number 37 : Check if a value exists in an array using .includes()
 # Question Number 38 : Combine two arrays [1,2] and [3,4] using concat()
+# Question Number 39 : Sort an array of numbers [5,2,9,1] in asecding order
