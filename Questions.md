@@ -42,3 +42,4 @@
 # Question Number 39 : Sort an array of numbers [5,2,9,1] in asecding order
 # Question Number 40 : Write a program that creates a copy of an array without mutating the original
 # Question Number 41 : Write a Function to check if a number if even or odd
+# Question Number 42 : Create a function to calculate the area of a circle with a given radius
