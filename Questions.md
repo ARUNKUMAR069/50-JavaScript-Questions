@@ -46,5 +46,5 @@
 # Question Number 43 : Write a function that accepts an array and returns the sum of it's elements
 
 # Question Number 44 : Create a function that checks if a string starts with a specific character
-
+# Question Number 45 : Write a function to find the maxium of two numbers
 # Question Number 46 : Create a Function that takes a number and returns it's factorial
