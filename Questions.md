@@ -34,3 +34,4 @@
 # Question Number 31 : Create an array of your top 5 favourite movies and log it
 # Question Number 32 : Find and log the second element of an array
 # Question Number 33 : Add two new elements to the starting of an array using .unshift().
+# Question Number 34 : Pop the array last element and console it 
