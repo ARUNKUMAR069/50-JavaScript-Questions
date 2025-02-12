@@ -38,3 +38,4 @@
 # Question Number 35 : use .slice() to extract the first three elements of an array
 # Question Number 36 : Find the index of a specific element in an index arr using indexOf().
 # Question Number 37 : Check if a value exists in an array using .includes()
+# Question Number 38 : Combine two arrays [1,2] and [3,4] using concat()
