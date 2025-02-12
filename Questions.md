@@ -44,3 +44,11 @@
 # Question Number 41 : Write a Function to check if a number if even or odd
 # Question Number 42 : Create a function to calculate the area of a circle with a given radius
 # Question Number 43 : Write a function that accepts an array and returns the sum of it's elements
+
+
+
+
+
+
+
+# Question Number 46 : Create a Function that takes a number and returns it's factorial
